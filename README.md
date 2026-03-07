@@ -1,5 +1,10 @@
-Hellu!, I’m @Vickerinox
-I’m interested in tons of boring old geek junk
+# Hellu!, I’m @Vickerinox
+I’m interested in tons of boring old geek junk. Im very interested in embedded systems and older hardware. Notably ARM architectures MOS 6502 based/descendant architectures.
+
+# Is mostly familiar with:
+  * Rust
+  * C
+  * C++
 
 # Has knowledge in:
   * C#
@@ -8,13 +13,5 @@ I’m interested in tons of boring old geek junk
   * PHP
   * HTML
   * SQL
-
-# Is mostly familiar with:
-  * Rust
   * Lua
-  * C
-  * C++
-
-# Has sat too much with:
-  * 6502 based architectures
-  * ARM architectures
+  * Various assembly languages
